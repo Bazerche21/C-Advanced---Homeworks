@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#2 - Class 3\\Vehichles.Domain\\Vehicles.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#2 - Class 3\\Vehichles.Domain\\Vehicles.Domain.csproj",
       "projectName": "Vehicles.Domain",
-      "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#2 - Class 3\\Vehichles.Domain\\Vehicles.Domain.csproj",
+      "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#2 - Class 3\\Vehichles.Domain\\Vehicles.Domain.csproj",
       "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#2 - Class 3\\Vehichles.Domain\\obj\\",
+      "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#2 - Class 3\\Vehichles.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",

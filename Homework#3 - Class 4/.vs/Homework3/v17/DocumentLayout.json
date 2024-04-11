@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CF7CFF-AB1C-4BB5-99E1-97A6787BB2B4}|Shape\\Shapes.csproj|c:\\users\\matej\\onedrive\\desktop\\homeworks c# - advanced\\homework#3 - class 4\\shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CF7CFF-AB1C-4BB5-99E1-97A6787BB2B4}|Shape\\Shapes.csproj|solutionrelative:shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9154D9-D4FC-4C20-BD7C-5848A0602C40}|Shape.Domain\\Shape.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\homeworks c# - advanced\\homework#3 - class 4\\shape.domain\\models\\nongenerichelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9154D9-D4FC-4C20-BD7C-5848A0602C40}|Shape.Domain\\Shape.Domain.csproj|solutionrelative:shape.domain\\models\\nongenerichelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape\\Program.cs",
+              "RelativeDocumentMoniker": "Shape\\Program.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape\\Program.cs",
+              "RelativeToolTip": "Shape\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:36:38.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NonGenericHelper.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape.Domain\\Models\\NonGenericHelper.cs",
+              "RelativeDocumentMoniker": "Shape.Domain\\Models\\NonGenericHelper.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape.Domain\\Models\\NonGenericHelper.cs",
+              "RelativeToolTip": "Shape.Domain\\Models\\NonGenericHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:33:19.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

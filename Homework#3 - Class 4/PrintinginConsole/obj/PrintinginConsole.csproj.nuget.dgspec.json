@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\PrintinginConsole\\PrintinginConsole.csproj": {}
+    "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\PrintinginConsole\\PrintinginConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\PrintinginConsole\\PrintinginConsole.csproj": {
+    "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\PrintinginConsole\\PrintinginConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\PrintinginConsole\\PrintinginConsole.csproj",
+        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\PrintinginConsole\\PrintinginConsole.csproj",
         "projectName": "PrintinginConsole",
-        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\PrintinginConsole\\PrintinginConsole.csproj",
+        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\PrintinginConsole\\PrintinginConsole.csproj",
         "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\PrintinginConsole\\obj\\",
+        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\PrintinginConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",

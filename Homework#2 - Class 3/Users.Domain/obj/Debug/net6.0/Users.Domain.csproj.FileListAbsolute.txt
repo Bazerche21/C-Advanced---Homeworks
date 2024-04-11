@@ -1,0 +1,12 @@
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\bin\Debug\net6.0\Users.Domain.deps.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\bin\Debug\net6.0\Users.Domain.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\bin\Debug\net6.0\Users.Domain.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\obj\Debug\net6.0\Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\obj\Debug\net6.0\Users.Domain.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\obj\Debug\net6.0\Users.Domain.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\obj\Debug\net6.0\Users.Domain.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\obj\Debug\net6.0\Users.Domain.sourcelink.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\obj\Debug\net6.0\Users.Domain.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\obj\Debug\net6.0\refint\Users.Domain.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\obj\Debug\net6.0\Users.Domain.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#2 - Class 3\Users.Domain\obj\Debug\net6.0\ref\Users.Domain.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape\\Shapes.csproj": {}
+    "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape\\Shapes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape.Domain\\Shape.Domain.csproj": {
+    "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape.Domain\\Shape.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape.Domain\\Shape.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape.Domain\\Shape.Domain.csproj",
         "projectName": "Shape.Domain",
-        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape.Domain\\Shape.Domain.csproj",
+        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape.Domain\\Shape.Domain.csproj",
         "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape.Domain\\obj\\",
+        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape\\Shapes.csproj": {
+    "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape\\Shapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape\\Shapes.csproj",
+        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape\\Shapes.csproj",
         "projectName": "Shapes",
-        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape\\Shapes.csproj",
+        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape\\Shapes.csproj",
         "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape\\obj\\",
+        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape.Domain\\Shape.Domain.csproj": {
-                "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#3 - Class 4\\Homework3\\Shape.Domain\\Shape.Domain.csproj"
+              "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape.Domain\\Shape.Domain.csproj": {
+                "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#3 - Class 4\\Shape.Domain\\Shape.Domain.csproj"
               }
             }
           }

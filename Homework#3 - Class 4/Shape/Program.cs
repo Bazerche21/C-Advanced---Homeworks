@@ -1,10 +1,16 @@
 ﻿using Shapes;
 using Shapes.Domain.Models;
 
-NonGenericHelper nonGenericHelper = new NonGenericHelper();
+GenericDB<Shape> genericDB = new GenericDB<Shape>();
 
 Circle circle = new(1, 3);
 Rectangle rectangle = new(2, 5, 9);
 
-NonGenericHelper.PrintInfo(circle);
-NonGenericHelper.PrintInfo(rectangle);
+genericDB.AddShape(circle);
+genericDB.AddShape(rectangle);
+
+circle.PrintInfo();
+rectangle.PrintInfo();
+
+genericDB.PrintPerimeter();
+genericDB.PrintAreas();

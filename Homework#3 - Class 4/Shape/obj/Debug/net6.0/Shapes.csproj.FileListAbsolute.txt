@@ -16,3 +16,22 @@ C:\Users\matej\OneDrive\Desktop\Homework#3 - Class 4\Homework3\Shape\obj\Debug\n
 C:\Users\matej\OneDrive\Desktop\Homework#3 - Class 4\Homework3\Shape\obj\Debug\net6.0\Shapes.pdb
 C:\Users\matej\OneDrive\Desktop\Homework#3 - Class 4\Homework3\Shape\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
 C:\Users\matej\OneDrive\Desktop\Homework#3 - Class 4\Homework3\Shape\obj\Debug\net6.0\ref\Shapes.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\bin\Debug\net6.0\Shapes.exe
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\bin\Debug\net6.0\Shapes.deps.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\bin\Debug\net6.0\Shapes.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\bin\Debug\net6.0\Shapes.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\bin\Debug\net6.0\Shape.Domain.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\bin\Debug\net6.0\Shape.Domain.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.sourcelink.json
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.csproj.Up2Date
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\refint\Shapes.dll
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.pdb
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Users\matej\OneDrive\Desktop\Homeworks C# - Advanced\Homework#3 - Class 4\Shape\obj\Debug\net6.0\ref\Shapes.dll
