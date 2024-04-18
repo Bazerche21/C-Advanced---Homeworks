@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarService.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c511aa5b657d5049fcaa40be0a25bcbb3a614f32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98617329c509b13880bd7ad83c5e8a8f8df23d84")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarService.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarService.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
