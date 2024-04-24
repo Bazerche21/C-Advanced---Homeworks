@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#5 - Class9\\Class9.FileStream\\Solution1\\FileStream\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework#5 - Class9\\Class9.FileStream\\Solution1\\FileStream\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#5 - Class9\\Class9.FileStream\\Solution1\\FilterNames\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework#5 - Class9\\Class9.FileStream\\Solution1\\FilterNames\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#4 - Class 6\\Cars.Domain\\Database\\CarsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework#4 - Class 6\\Cars.Domain\\Database\\CarsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\Models\\CarCenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework#1 - Class2\\CarService.Domain\\Models\\CarCenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\Models\\CarWash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework#1 - Class2\\CarService.Domain\\Models\\CarWash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\Models\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework#1 - Class2\\CarService.Domain\\Models\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\CarService.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework#1 - Class2\\CarService.Domain\\CarService.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework#1 - Class2\\CarService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#5 - Class9\\Class9.FileStream\\Solution1\\FilterNames\\Program.cs",
+              "RelativeDocumentMoniker": "Homework#5 - Class9\\Class9.FileStream\\Solution1\\FilterNames\\Program.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#5 - Class9\\Class9.FileStream\\Solution1\\FilterNames\\Program.cs",
+              "RelativeToolTip": "Homework#5 - Class9\\Class9.FileStream\\Solution1\\FilterNames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:24:36.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#5 - Class9\\Class9.FileStream\\Solution1\\FileStream\\Program.cs",
+              "RelativeDocumentMoniker": "Homework#5 - Class9\\Class9.FileStream\\Solution1\\FileStream\\Program.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#5 - Class9\\Class9.FileStream\\Solution1\\FileStream\\Program.cs",
+              "RelativeToolTip": "Homework#5 - Class9\\Class9.FileStream\\Solution1\\FileStream\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:24:28.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsData.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#4 - Class 6\\Cars.Domain\\Database\\CarsData.cs",
+              "RelativeDocumentMoniker": "Homework#4 - Class 6\\Cars.Domain\\Database\\CarsData.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#4 - Class 6\\Cars.Domain\\Database\\CarsData.cs",
+              "RelativeToolTip": "Homework#4 - Class 6\\Cars.Domain\\Database\\CarsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:45:16.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarCenter.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\Models\\CarCenter.cs",
+              "RelativeDocumentMoniker": "Homework#1 - Class2\\CarService.Domain\\Models\\CarCenter.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\Models\\CarCenter.cs",
+              "RelativeToolTip": "Homework#1 - Class2\\CarService.Domain\\Models\\CarCenter.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:44:39.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarWash.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\Models\\CarWash.cs",
+              "RelativeDocumentMoniker": "Homework#1 - Class2\\CarService.Domain\\Models\\CarWash.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\Models\\CarWash.cs",
+              "RelativeToolTip": "Homework#1 - Class2\\CarService.Domain\\Models\\CarWash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:44:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Homework#1 - Class2\\CarService.Domain\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Homework#1 - Class2\\CarService.Domain\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:44:33.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarService.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\CarService.Domain.csproj",
+              "RelativeDocumentMoniker": "Homework#1 - Class2\\CarService.Domain\\CarService.Domain.csproj",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService.Domain\\CarService.Domain.csproj",
+              "RelativeToolTip": "Homework#1 - Class2\\CarService.Domain\\CarService.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T17:44:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService\\Program.cs",
+              "RelativeDocumentMoniker": "Homework#1 - Class2\\CarService\\Program.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homeworks C# - Advanced\\Homework#1 - Class2\\CarService\\Program.cs",
+              "RelativeToolTip": "Homework#1 - Class2\\CarService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:44:21.855Z"
             }
           ]
         }

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#5 - Class9\\Class9.FileStream\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6EA4C-4241-4277-B64F-6D9B55DA843F}|FileStream\\FileStream.csproj|c:\\users\\matej\\onedrive\\desktop\\homework#5 - class9\\class9.filestream\\solution1\\filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6EA4C-4241-4277-B64F-6D9B55DA843F}|FileStream\\FileStream.csproj|solutionrelative:filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#5 - Class9\\Class9.FileStream\\Solution1\\FileStream\\Program.cs",
+              "RelativeDocumentMoniker": "FileStream\\Program.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#5 - Class9\\Class9.FileStream\\Solution1\\FileStream\\Program.cs",
+              "RelativeToolTip": "FileStream\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:55:45.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
