@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PTv6UDaxmFPdeUKTabbf2RShYetG4KQ0VidS8mQDe9BotJczWy5TGFWyNii1KkGd3ABIiSNfYNzgbtfCX+d73g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matej\\OneDrive\\Desktop\\Homework#6  -Class 11\\Dogs\\Dogs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matej\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
