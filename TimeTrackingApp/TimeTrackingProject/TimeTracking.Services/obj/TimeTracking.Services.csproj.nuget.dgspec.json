@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Services\\TimeTracking.Services.csproj": {}
+    "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\TimeTracking.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj": {
+    "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
         "projectName": "TimeTracking.Domain",
-        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
+        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
         "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\obj\\",
+        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Services\\TimeTracking.Services.csproj": {
+    "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\TimeTracking.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Services\\TimeTracking.Services.csproj",
+        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\TimeTracking.Services.csproj",
         "projectName": "TimeTracking.Services",
-        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Services\\TimeTracking.Services.csproj",
+        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\TimeTracking.Services.csproj",
         "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Services\\obj\\",
+        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj": {
-                "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj"
+              "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj": {
+                "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj"
               }
             }
           }

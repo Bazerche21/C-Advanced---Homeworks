@@ -14,7 +14,7 @@ namespace TimeTracking.Domain.Models
         public OtherHobbies(string name)
         {
             Name = name;
-            Type = ActivityType.OtherHobbies
+            Type = ActivityType.OtherHobbies;
         }
     }
 }

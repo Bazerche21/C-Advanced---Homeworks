@@ -12,6 +12,7 @@ namespace TimeTracking.Domain.Models
     public class ActivityTracker : IActivityTracker
     {
         private Dictionary<ActivityType, int> activities = new Dictionary<ActivityType, int>();
+
         public void TrackActivity(ActivityType activity)
         {
             Console.WriteLine($"You have started tracking {activity}. Press Enter when you are done.");
@@ -44,5 +45,11 @@ namespace TimeTracking.Domain.Models
                 Console.WriteLine($"{activity.Key}: {activity.Value} minutes");
             }
         }
+
+        public Dictionary<ActivityType, int> GetActivities()
+        {
+            return activities;
+        }
+
     }
 }

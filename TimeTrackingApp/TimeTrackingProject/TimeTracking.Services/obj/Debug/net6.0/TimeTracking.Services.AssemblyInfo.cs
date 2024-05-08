@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeTracking.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b295c47ff19971ac3d2fe7b914cafb7c2f731134")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeTracking.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeTracking.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

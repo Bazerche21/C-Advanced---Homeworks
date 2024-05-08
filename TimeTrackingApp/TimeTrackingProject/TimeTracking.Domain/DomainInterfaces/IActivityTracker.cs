@@ -11,5 +11,6 @@ namespace TimeTracking.Domain.DomainInterfaces
     {
         void TrackActivity(ActivityType activity);
         void ViewActivityData();
+        Dictionary<ActivityType, int> GetActivities();
     }
 }

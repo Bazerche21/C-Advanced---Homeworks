@@ -10,6 +10,10 @@ namespace TimeTracking.Domain.Models
     public abstract class Activity : BaseEntity
     {
         public ActivityType Type;
+        public string Name { get; set; }
+        public DateTime StartTime { get; set; }
+        public DateTime EndAcitvity { get; set; }
+
         public override string getInfo()
         {
             throw new NotImplementedException();

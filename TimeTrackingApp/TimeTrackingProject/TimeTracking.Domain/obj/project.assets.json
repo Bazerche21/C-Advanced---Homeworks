@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
       "projectName": "TimeTracking.Domain",
-      "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
+      "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
       "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\obj\\",
+      "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",

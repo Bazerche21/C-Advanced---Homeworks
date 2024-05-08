@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Homework#4 - Class 6",
-    "\\Homework#4 - Class 6\\Cars.Domain",
-    "\\Homework#4 - Class 6\\Cars.Domain\\Database",
-    "\\TimeTrackingApp"
+    "\\TimeTrackingApp",
+    "\\TimeTrackingApp\\TimeTrackingProject",
+    "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking",
+    "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain",
+    "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces",
+    "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Enums",
+    "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models",
+    "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services",
+    "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces"
   ],
-  "SelectedNode": "\\Homework#4 - Class 6\\Cars.Domain\\Database\\CarsData.cs",
+  "SelectedNode": "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces",
   "PreviewInSolutionExplorer": false
 }

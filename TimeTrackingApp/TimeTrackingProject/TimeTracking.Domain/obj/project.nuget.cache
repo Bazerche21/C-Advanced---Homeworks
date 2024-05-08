@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a7nTareZUhI/ZmduxQE5xWIkYtRjXb2rpcirVOU8LYXnT5clgEePBdRmz2rgqeU5IP0j/y6rSffwI+BuMAyC6g==",
+  "dgSpecHash": "C8nqYtP6bV7RHpJLOosZDY+QrdotVNv8qlMsXYk63/RnWTp2LQEd0C98MCcyoGAdjN1zUIkFw7MvqCWYDZfkmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matej\\OneDrive\\Desktop\\Workshop\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
+  "projectFilePath": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\TimeTracking.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
