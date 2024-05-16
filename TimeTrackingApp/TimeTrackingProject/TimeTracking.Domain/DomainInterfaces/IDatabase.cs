@@ -5,14 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 using TimeTracking.Domain.Models;
 
-namespace TimeTracking.Domain.Database
+namespace TimeTracking.Domain.DomainInterfaces
 {
     public interface IDatabase<T> where T : BaseEntity
     {
-        int Insert(T entity); 
+        int Insert(T entity);
         List<T> GetAll();
         T GetById(int id);
         void Update(T entity);
-        void DeleteById(int id);
+        void DeleteUser(int id);
     }
 }

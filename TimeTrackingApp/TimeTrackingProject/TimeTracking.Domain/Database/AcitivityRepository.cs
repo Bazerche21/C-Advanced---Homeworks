@@ -9,7 +9,7 @@ using TimeTracking.Domain.Models;
 
 namespace TimeTracking.Domain.Database
 {
-    public class AcitivityRepository : IActivity
+    public class AcitivityRepository: IActivity
     {
         private List<Activity> activities;
 
@@ -40,6 +40,21 @@ namespace TimeTracking.Domain.Database
         public List<Activity> GetActivitiesByType(ActivityType type)
         {
             return activities.FindAll(a => a.Type == type);
+        }
+
+        public void Update(Activity activity)
+        {
+            Activity existingActivity = activities.FirstOrDefault(a => a.Name == activity.Name && a.Type == activity.Type);
+
+            if (existingActivity != null)
+            {
+                existingActivity.Name = activity.Name;
+                existingActivity.Type = activity.Type;
+            }
+            else
+            {
+                throw new Exception("Activity not found.");
+            }
         }
     }
 }

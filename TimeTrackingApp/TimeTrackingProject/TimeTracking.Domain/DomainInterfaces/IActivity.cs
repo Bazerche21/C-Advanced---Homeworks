@@ -8,7 +8,7 @@ using TimeTracking.Domain.Models;
 
 namespace TimeTracking.Domain.DomainInterfaces
 {
-    public interface IActivity<T> where T : Activity
+    public interface IActivity
     {
         void Update(Activity activity);
         List<Activity> GetActivitiesByName(string name);

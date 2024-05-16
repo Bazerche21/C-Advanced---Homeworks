@@ -9,7 +9,7 @@ namespace TimeTracking.Services.Interfaces
 {
     public interface IAuthenticationService<T> where T : User
     {
-        T Register(User userModel);
+        T Register(T userModel);
         T LogIn(string username, string password);
         T LogOut();
     }

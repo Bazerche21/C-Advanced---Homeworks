@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dogs.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e6d9adb317dc3fac784e6e5002d8042ca6e0969")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dogs.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dogs.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

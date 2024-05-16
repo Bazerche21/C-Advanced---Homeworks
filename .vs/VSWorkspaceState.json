@@ -11,6 +11,6 @@
     "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services",
     "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces"
   ],
-  "SelectedNode": "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces",
+  "SelectedNode": "\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IActivityTracker.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,4 @@
+C:\Users\matej\OneDrive\Desktop\TimeTrackingApp\TimeTrackingProject\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\TimeTrackingApp\TimeTrackingProject\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\TimeTrackingApp\TimeTrackingProject\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\TimeTrackingApp\TimeTrackingProject\TimeTracking.Domain\obj\Debug\net6.0\TimeTracking.Domain.csproj.CoreCompileInputs.cache

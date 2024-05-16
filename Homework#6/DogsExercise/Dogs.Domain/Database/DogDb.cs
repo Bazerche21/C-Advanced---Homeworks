@@ -11,18 +11,14 @@ namespace Dogs.Domain.Database
     {
         public DogDb() : base() { }
 
-        public void PrintAllDogsFromFile(string filePath)
+        public void PrintAllDogsFromFile()
         {
             try
             {
-                using (StreamReader sr = new StreamReader(filePath))
+                List<Dog> dogs = GetAll();
+                foreach (var dog in dogs)
                 {
-                    string line;
-                    while ((line = sr.ReadLine()) != null)
-                    {
-                        Dog dog = Dog.FromString(line);
-                        Console.WriteLine($"Name: {dog.Name}, Age: {dog.Age}, Color: {dog.Color}");
-                    }
+                    Console.WriteLine($"Name: {dog.Name}, Age: {dog.Age}, Color: {dog.Color}");
                 }
             }
             catch (Exception ex)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeTracking.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa94745a9b6026eed132511e29ad42e6e8ba4173")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abddfd927a60146d3aa46cac63668106f35df0cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeTracking.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeTracking.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

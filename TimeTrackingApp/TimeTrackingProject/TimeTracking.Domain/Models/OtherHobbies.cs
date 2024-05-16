@@ -7,7 +7,7 @@ using TimeTracking.Domain.Enums;
 
 namespace TimeTracking.Domain.Models
 {
-    public class OtherHobbies : Activity
+    public class OtherHobbies : Activty
     {
         public string Name;
 

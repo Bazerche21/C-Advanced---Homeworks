@@ -7,7 +7,7 @@ using TimeTracking.Domain.Enums;
 
 namespace TimeTracking.Domain.Models
 {
-    public class Working : Activity
+    public class Working : Activty
     {
         public WorkingType WorkingType;
 

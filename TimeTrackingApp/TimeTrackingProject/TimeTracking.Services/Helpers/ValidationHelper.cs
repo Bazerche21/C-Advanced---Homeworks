@@ -33,7 +33,7 @@ namespace TimeTracking.Services.Helpers
             return true;
         }
 
-        public static bool ValidateFirstAndLastName(string firstName, string lastName)
+        public static bool ValidateFirstName(string firstName)
         {
             bool isNum = false;
             foreach (char ch in firstName)
@@ -45,7 +45,25 @@ namespace TimeTracking.Services.Helpers
             if (isNum)
                 return true;
 
-            if (!(firstName.Length < 2 || lastName.Length < 2))
+            if (!(firstName.Length < 2))
+                return true;
+
+            return false;
+        }
+
+        public static bool ValidateLastName(string lastName)
+        {
+            bool isNum = false;
+            foreach (char ch in lastName)
+            {
+                isNum = int.TryParse(ch.ToString(), out int num);
+                if (!isNum)
+                    break;
+            }
+            if (isNum)
+                return true;
+
+            if (!(lastName.Length < 2))
                 return true;
 
             return false;

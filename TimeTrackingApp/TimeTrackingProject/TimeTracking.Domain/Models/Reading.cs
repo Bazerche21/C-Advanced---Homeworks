@@ -7,7 +7,7 @@ using TimeTracking.Domain.Enums;
 
 namespace TimeTracking.Domain.Models
 {
-    public class Reading : Activity
+    public class Reading : Activty
     {
         public int Pages;
 

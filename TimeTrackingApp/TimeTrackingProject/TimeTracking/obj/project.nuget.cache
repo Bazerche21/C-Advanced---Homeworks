@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lQJRwhrBoeh0Cda6miBcvbZDTlOOkGdw6c9OEY1a0miHcjnnz3BBkLA/IuwJNjdFOYxWmq0qILyz1LCnX4EqhA==",
+  "dgSpecHash": "c9GirO+Ao5WbTyh7Y5KFVdx55jm/DEYNf7oTnVCf2NL1K6Bfh+3ni+buGbRxkkbYoNa9f6QcN6vg5sX0adHL9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking\\TimeTracking.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\matej\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

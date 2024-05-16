@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,6 +67,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -91,8 +95,7 @@
               "RelativeToolTip": "TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Working.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:10:09.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T10:10:09.528Z"
             },
             {
               "$type": "Document",
@@ -104,8 +107,7 @@
               "RelativeToolTip": "TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:10:08.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T10:10:08.504Z"
             },
             {
               "$type": "Document",
@@ -117,8 +119,7 @@
               "RelativeToolTip": "TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Reading.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:10:06.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T10:10:06.645Z"
             },
             {
               "$type": "Document",
@@ -130,8 +131,7 @@
               "RelativeToolTip": "TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Exercising.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:10:04.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T10:10:04.78Z"
             },
             {
               "$type": "Document",
@@ -143,8 +143,7 @@
               "RelativeToolTip": "TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\OtherHobbies.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:10:03.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T10:10:03.556Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\ActivityTracker.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:09:19.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T10:09:19.676Z"
             },
             {
               "$type": "Document",
@@ -169,8 +167,7 @@
               "RelativeToolTip": "TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Activity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:09:18.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T10:09:18.264Z"
             },
             {
               "$type": "Document",
@@ -182,8 +179,7 @@
               "RelativeToolTip": "TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Enums\\ActivityType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:09:09.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T10:09:09.867Z"
             },
             {
               "$type": "Document",
@@ -195,12 +191,7 @@
               "RelativeToolTip": "TimeTrackingApp\\TimeTrackingProject\\TimeTracking\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:09:04.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-05-08T10:09:04.87Z"
             }
           ]
         }

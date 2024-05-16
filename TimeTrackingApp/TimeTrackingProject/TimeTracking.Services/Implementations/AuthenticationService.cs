@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TimeTracking.Domain.Database;
+using TimeTracking.Domain.DomainInterfaces;
 using TimeTracking.Domain.Models;
 using TimeTracking.Services.Helpers;
 using TimeTracking.Services.Interfaces;
@@ -35,9 +36,9 @@ namespace TimeTracking.Services.Implementations
             throw new NotImplementedException();
         }
 
-        public T Register(User userModel)
+        public T Register(T userModel)
         {
-            if (!ValidationHelper.ValidateFirstAndLastName(userModel.FirstName, userModel.LastName )|| !ValidationHelper.ValidateUsername(user.Username) || !ValidationHelper.ValidatePassword(userModel.Password))
+            if (!ValidationHelper.ValidateFirstName(userModel.FirstName)|| !ValidationHelper.ValidateLastName(userModel.LastName) || !ValidationHelper.ValidateUsername(userModel.Username) || !ValidationHelper.ValidatePassword(userModel.Password))
             {
                 MessageHelper.PrintMessage("[Error] User data is invalid", ConsoleColor.Red);
                 return null;

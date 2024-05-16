@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\implementations\\usermanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\interfaces\\iusermanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\interfaces\\iusermanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\implementations\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\implementations\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\implementations\\mainmenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\implementations\\mainmenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043A94B9-6555-48F1-B4EA-E0947F71981E}|TimeTracking\\TimeTracking.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043A94B9-6555-48F1-B4EA-E0947F71981E}|TimeTracking\\TimeTracking.csproj|solutionrelative:timetracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\interfaces\\iactivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,72 +35,64 @@
       "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\implementations\\mainmenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\implementations\\mainmenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\implementations\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\implementations\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\implementations\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\database\\filedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\database\\filedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\domaininterfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\domaininterfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\domaininterfaces\\iactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\domaininterfaces\\iactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\domaininterfaces\\iactivitytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\domaininterfaces\\iactivitytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\helpers\\messagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\helpers\\messagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\database\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\database\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\database\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\database\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\database\\filedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\database\\filedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\domaininterfaces\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\domaininterfaces\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\database\\acitivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\database\\acitivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\models\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\models\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\database\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\database\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\domaininterfaces\\iactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\domaininterfaces\\iactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\models\\working.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\models\\working.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\helpers\\messagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\helpers\\messagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.services\\interfaces\\iusermanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A77DA6-865F-4C6A-915A-A66652AB3700}|TimeTracking.Services\\TimeTracking.Services.csproj|solutionrelative:timetracking.services\\interfaces\\iusermanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\models\\working.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\models\\working.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\domaininterfaces\\iactivitytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\domaininterfaces\\iactivitytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\models\\otherhobbies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\models\\otherhobbies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\models\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\models\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|c:\\users\\matej\\onedrive\\desktop\\timetrackingapp\\timetrackingproject\\timetracking.domain\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4117132-5FC1-4DDE-AAEA-884DF1646D91}|TimeTracking.Domain\\TimeTracking.Domain.csproj|solutionrelative:timetracking.domain\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,178 +102,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 15,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\User.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T08:47:35.946Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Activity.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Activity.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\Models\\Activity.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Activity.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\Models\\Activity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:37:49.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AcitivityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\AcitivityRepository.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\Database\\AcitivityRepository.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\AcitivityRepository.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\Database\\AcitivityRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:29:59.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\UserRepository.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\Database\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\UserRepository.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\Database\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:29:43.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IActivity.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IActivity.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\DomainInterfaces\\IActivity.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IActivity.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\DomainInterfaces\\IActivity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:27:47.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MessageHelper.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Helpers\\MessageHelper.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Services\\Helpers\\MessageHelper.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Helpers\\MessageHelper.cs",
-              "RelativeToolTip": "TimeTracking.Services\\Helpers\\MessageHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:11:15.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ValidationHelper.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Helpers\\ValidationHelper.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Services\\Helpers\\ValidationHelper.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Helpers\\ValidationHelper.cs",
-              "RelativeToolTip": "TimeTracking.Services\\Helpers\\ValidationHelper.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:10:41.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FileDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\FileDatabase.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\Database\\FileDatabase.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\FileDatabase.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\Database\\FileDatabase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:36:53.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\IDatabase.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\Database\\IDatabase.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\IDatabase.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\Database\\IDatabase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:36:43.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\UserRepository.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\Models\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\UserRepository.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\Models\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:20:51.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUser.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IUser.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\DomainInterfaces\\IUser.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IUser.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\DomainInterfaces\\IUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:19:11.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IActivityTracker.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IActivityTracker.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\DomainInterfaces\\IActivityTracker.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IActivityTracker.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\DomainInterfaces\\IActivityTracker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:17:31.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainMenuService.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\MainMenuService.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Services\\Implementations\\MainMenuService.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\MainMenuService.cs",
-              "RelativeToolTip": "TimeTracking.Services\\Implementations\\MainMenuService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:14:58.807Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -283,8 +121,143 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OtherHobbies.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\OtherHobbies.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Models\\OtherHobbies.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\OtherHobbies.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Models\\OtherHobbies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:34:35.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reading.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Reading.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Models\\Reading.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Reading.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Models\\Reading.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:34:35.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\User.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:34:34.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Working.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Working.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Models\\Working.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Working.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Models\\Working.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:34:33.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "TimeTracking.Services\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:34:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MessageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Helpers\\MessageHelper.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\Helpers\\MessageHelper.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Helpers\\MessageHelper.cs",
+              "RelativeToolTip": "TimeTracking.Services\\Helpers\\MessageHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:34:27.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\DomainInterfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IUser.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\DomainInterfaces\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:33:44.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IActivityTracker.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IActivityTracker.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\DomainInterfaces\\IActivityTracker.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IActivityTracker.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\DomainInterfaces\\IActivityTracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:33:41.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserManagmentService.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IUserManagmentService.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\Interfaces\\IUserManagmentService.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IUserManagmentService.cs",
+              "RelativeToolTip": "TimeTracking.Services\\Interfaces\\IUserManagmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:21:23.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "TimeTracking.Services\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:21:22.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IActivityService.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\Interfaces\\IActivityService.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IActivityService.cs",
+              "RelativeToolTip": "TimeTracking.Services\\Interfaces\\IActivityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:17:45.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -294,100 +267,151 @@
               "RelativeDocumentMoniker": "TimeTracking.Services\\Implementations\\UserManagmentService.cs",
               "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\UserManagmentService.cs",
               "RelativeToolTip": "TimeTracking.Services\\Implementations\\UserManagmentService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:08:21.639Z",
+              "WhenOpened": "2024-05-14T19:15:38.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Services\\Implementations\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\AuthenticationService.cs",
-              "RelativeToolTip": "TimeTracking.Services\\Implementations\\AuthenticationService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking\\Program.cs",
+              "RelativeDocumentMoniker": "TimeTracking\\Program.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking\\Program.cs",
+              "RelativeToolTip": "TimeTracking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T15:08:01.467Z",
+              "WhenOpened": "2024-05-14T19:11:58.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ActivityService.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\ActivityService.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Services\\Implementations\\ActivityService.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\ActivityService.cs",
-              "RelativeToolTip": "TimeTracking.Services\\Implementations\\ActivityService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAA1AAAA",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Database\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\UserRepository.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Database\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:28:36.199Z",
+              "WhenOpened": "2024-05-14T19:11:31.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUserManagmentService.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IUserManagmentService.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Services\\Interfaces\\IUserManagmentService.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IUserManagmentService.cs",
-              "RelativeToolTip": "TimeTracking.Services\\Interfaces\\IUserManagmentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:27:03.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\Database.cs",
               "RelativeDocumentMoniker": "TimeTracking.Domain\\Database\\Database.cs",
               "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\Database.cs",
               "RelativeToolTip": "TimeTracking.Domain\\Database\\Database.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:11:07.472Z",
+              "WhenOpened": "2024-05-14T19:01:01.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IDatabase.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\DomainInterfaces\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IDatabase.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\DomainInterfaces\\IDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:00:58.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IActivityService.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IActivityService.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Services\\Interfaces\\IActivityService.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IActivityService.cs",
-              "RelativeToolTip": "TimeTracking.Services\\Interfaces\\IActivityService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\ActivityService.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\Implementations\\ActivityService.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\ActivityService.cs",
+              "RelativeToolTip": "TimeTracking.Services\\Implementations\\ActivityService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:00:11.463Z",
+              "WhenOpened": "2024-05-13T19:14:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\Implementations\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\AuthenticationService.cs",
+              "RelativeToolTip": "TimeTracking.Services\\Implementations\\AuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:13:50.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Activity.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Models\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:37:49.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AcitivityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\AcitivityRepository.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Database\\AcitivityRepository.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\AcitivityRepository.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Database\\AcitivityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:29:59.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IActivity.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IActivity.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\DomainInterfaces\\IActivity.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\DomainInterfaces\\IActivity.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\DomainInterfaces\\IActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:27:47.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IAuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IAuthenticationService.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Services\\Interfaces\\IAuthenticationService.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Interfaces\\IAuthenticationService.cs",
-              "RelativeToolTip": "TimeTracking.Services\\Interfaces\\IAuthenticationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Title": "MainMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\MainMenuService.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Services\\Implementations\\MainMenuService.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Services\\Implementations\\MainMenuService.cs",
+              "RelativeToolTip": "TimeTracking.Services\\Implementations\\MainMenuService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:44:36.827Z",
+              "WhenOpened": "2024-05-08T15:14:58.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Working.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Working.cs",
-              "RelativeDocumentMoniker": "TimeTracking.Domain\\Models\\Working.cs",
-              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Models\\Working.cs",
-              "RelativeToolTip": "TimeTracking.Domain\\Models\\Working.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "DocumentIndex": 8,
+              "Title": "FileDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\FileDatabase.cs",
+              "RelativeDocumentMoniker": "TimeTracking.Domain\\Database\\FileDatabase.cs",
+              "ToolTip": "C:\\Users\\matej\\OneDrive\\Desktop\\TimeTrackingApp\\TimeTrackingProject\\TimeTracking.Domain\\Database\\FileDatabase.cs",
+              "RelativeToolTip": "TimeTracking.Domain\\Database\\FileDatabase.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAowFAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T09:49:40.309Z",
+              "WhenOpened": "2024-05-08T15:36:53.435Z",
               "EditorCaption": ""
             }
           ]

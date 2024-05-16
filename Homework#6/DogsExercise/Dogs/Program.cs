@@ -63,4 +63,4 @@ else
 Console.ReadLine();
 
 Console.WriteLine("======= PRINTING ALL DOGS FROM FILE =======");
-dogDb.PrintAllDogsFromFile("dogs.txt");
+dogDb.PrintAllDogsFromFile();

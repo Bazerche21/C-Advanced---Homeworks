@@ -12,11 +12,11 @@ namespace TimeTracking.Services.Implementations
 {
     public class ActivityService<T> : IActivityService<T> where T : Activity
     {
-        public IActivity<T> database;
+        public IActivity database;
 
         public List<Activity> getUserActivites(string username)
         {
-            database.GetActivitiesByName(username);
+            return database.GetActivitiesByName(username);
         }
 
         public void StartActivity(Activity activity)
